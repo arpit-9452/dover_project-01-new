@@ -1,0 +1,1232 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.navbar_1{
+    border: 1px solid black;
+    width: auto;
+    background-color: #000;
+    height: 60px;
+}
+.main-container_0001{
+    border: 3px solid black;
+    width: auto;
+    height: auto;
+    background-color: #000;
+}
+
+
+.navbar_1 p{
+    font-size: 28px;
+    font-weight: 600;
+    position: absolute;
+    color: aqua;
+    top: -4%;
+    left: 220px;
+    margin-left: 190px;
+    padding: 15px;
+   
+}
+.logo{
+    width: 125px;
+    height: 90px;
+    position: sticky;
+    left: 50px;
+    padding: 27px;
+}
+.logo img{
+    width: 120px;
+    height: 85px;
+    position: sticky;
+}
+.main_navbar{
+    position: absolute;
+    width: 880px;
+    height: 40px;
+    font-size: 22px;
+    font-weight: 600;
+    color: rgb(87, 85, 87);
+    padding: 15px;
+    top: 99px;
+    left: 225px;
+}
+
+.main_navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   
+}
+.main_navbar li{
+    display: inline;
+    padding: 14px;
+    transition: 0.4s;  
+}
+.main_navbar li:hover{
+    color: red;
+    font-size: 22px;
+}
+.btn-1{
+    width: 125px;
+    height: 65px;
+    float: right;
+    position: relative;
+    margin-right: 50px;
+    top: 25px;
+   
+}
+.btn-1 button{
+    width: 124px;
+    height: 64px; 
+    font-size: 18px;
+    font-weight: 600;
+    background-color: rgb(11, 11, 70);
+    color: rgb(147, 219, 219);
+}
+.btn-1 button:hover{
+    background-color: black;
+}
+.para-1{
+    width: 56%;
+    height: 300px;
+    position: absolute;
+    left: 10%;
+    top: 20%;
+}
+.para-1 p{
+    font-size: 82px;
+    font-weight: bold;
+    font-weight: 600;
+    color:rgb(156, 179, 199);
+}
+.para-2{
+    position: absolute;
+    top: 60%;
+    left: 10%;
+}
+.para-2 p{
+    font-size: 28px;
+    font-weight: 600;
+    color: rgb(61, 81, 99);
+}
+.null{
+    width: 100px;
+    position: absolute;
+    height: 15px;
+    background-color: rgba(67, 73, 250, 0.734);
+    top: 77%;
+    left: 10%;
+}
+.para-3{
+    position: absolute;
+    top: 75%;
+    left: 10%;
+    font-size: 40px;
+    font-weight: 600;
+}
+.para-3 p{
+    color: aqua;  
+}
+.btn-2{
+    width: 480px;
+    height: 74px;
+    position: absolute;
+    top: 99%;
+    left: 10%;
+    border: none;
+}
+.btn-2 button{
+    width: 480px;
+    height: 73px;
+    background-color: rgb(115, 241, 241);
+    font-size: 22px;
+    font-weight: 600; 
+    border: none; 
+}
+.btn-2 button p{
+    text-align: left;
+    left: 10px;
+    top: 10px;
+}
+.btn-2 button img{
+    position: absolute;
+    bottom: 4%;
+    width: 68px;
+    left: 80%;
+}
+.btn-2 button:hover{
+    background-color: aqua;
+}
+.no-1-img{
+    width: 120px;
+    height: 140px;
+    position: absolute;
+    left: 50%;
+    top: 99%;
+}
+.no-1-img img{
+    width: 120px;
+    height: 140px;
+}
+.no-2-img{
+    width: 120px;
+    height: 140px;
+    position: absolute;
+    left: 50%;
+    top: 99%;
+    margin-top: 150px;
+}
+.no-2-img img{
+    width: 120px;
+    height: 140px;
+}
+.no-3-img{
+    width: 120px;
+    height: 140px;
+    position: absolute;
+    left: 60%;
+    top: 89%;
+}
+.no-3-img img{
+    width: 120px;
+    height: 140px;
+}
+.no-4-img{
+    width: 120px;
+    height: 140px;
+    position: absolute;
+    left: 60%;
+    top: 99%;
+    margin-top: 85px;
+}
+.no-4-img img{
+    width: 120px;
+    height: 140px;
+}
+.no-5-img{
+    width: 120px;
+    height: 140px;
+    position: absolute;
+    left: 60%;
+    top: 99%;
+    margin-top: 235px;
+}
+.no-5-img img{
+    width: 120px;
+    height: 140px;
+}
+.no-6-img{
+    width: 120px;
+    height: 140px;
+    position: absolute;
+    left: 70%;
+    top: 79%;
+}
+.no-6-img img{
+    width: 120px;
+    height: 140px;
+}
+.no-7-img{
+    width: 120px;
+    height: 140px;
+    position: absolute;
+    left: 70%;
+    top: 99%;
+    margin-top: 20px;
+}
+.no-7-img img{
+    width: 120px;
+    height: 140px;
+}
+.no-8-img{
+    width: 120px;
+    height: 140px;
+    position: absolute;
+    left: 70%;
+    top: 99%;
+    margin-top: 170px;
+}
+.no-8-img img{
+    width: 120px;
+    height: 140px;
+}
+.no-9-img{
+    width: 120px;
+    height: 140px;
+    position: absolute;
+    left: 80%;
+    top: 72%;
+}
+.no-9-img img{
+    width: 120px;
+    height: 140px;
+}
+.no-10-img{
+    width: 120px;
+    height: 140px;
+    position: absolute;
+    left: 80%;
+    top: 72%;
+}
+.no-10-img img{
+    width: 120px;
+    height: 140px;
+}
+.no-11-img{
+    width: 120px;
+    height: 140px;
+    position: absolute;
+    left: 80%;
+    top: 96%;
+}
+.no-11-img img{
+    width: 120px;
+    height: 140px;
+}
+.no-12-img{
+    width: 120px;
+    height: 140px;
+    position: absolute;
+    left: 80%;
+    top: 96%;
+    margin-top: 150px;
+}
+.no-12-img img{
+    width: 120px;
+    height: 140px;
+}
+.no-13-img{
+    width: 120px;
+    height: 140px;
+    position: absolute;
+    left: 80%;
+    top: 96%;
+    margin-top: 299px;
+}
+.no-13-img img{
+    width: 120px;
+    height: 140px;
+}
+.para-4{
+    width: 660px;
+    position: absolute;
+    top: 91%;
+    margin-top: 470px;
+    left: 300px;
+}
+.para-4 p{
+    font-size: 32px;
+    font-weight: 600;
+    color: aqua;
+    transition: 0.5s;
+}
+.para-4 p:hover{
+    color: rgb(38, 38, 252);
+
+}
+.combine-img-4{
+    width: 71rem;
+    position: absolute;
+    top: 99%;
+    margin-top: 540px;
+    left: 110px;
+}
+.combine-img-4 img{
+    width: 250px;
+    padding: 15px;
+}
+.second-combine-img-4{
+    width: 71rem;
+    position: absolute;
+    top: 99%;
+    margin-top: 650px;
+    left: 110px;
+}
+.second-combine-img-4 img{
+    width: 250px;
+    padding: 15px;
+}
+.para-5{
+    position: absolute;
+    top: 99%;
+    margin-top: 750px;
+    left: 32%;
+    width: 380px;
+    height: 90px;
+   
+}
+
+.para-5 p{
+    font-size: 34px;
+    font-weight: 600;
+    color: rgb(82, 241, 241);
+    transition: 0.7s;
+}
+.para-5 p:hover{
+    color:blue;
+    font-size: 36px;
+}
+.long-arrow{
+    width: 90px;
+    position: absolute;
+    top: 99%;
+    margin-top: 772px;
+    left: 54.8%;
+}
+.long-arrow img{
+    width: 120px;
+    height: 65px;
+    fill: aqua;
+    color: aqua;
+}
+.container-1{
+    width: 80%;
+    height: 429px;
+    left: 10%;
+    position: absolute;
+    background-color: rgb(118, 243, 243);
+    top: 99%;
+    margin-top: 860px;
+}
+.container-1 p{
+    font-size: 42px;
+    font-weight: 600;
+    position: relative;
+    left: 9.6%;
+    top: 16px;
+    padding: 10px;
+    color: rgb(18, 59, 66);
+}
+.container-1 img{
+    position: relative;
+    left: 8.9%;
+    top: 5%;
+}
+.comma{
+    width: 110px;
+    position: absolute;
+    top: 99%;
+    margin-top: 819px;
+    left: 9.3%;
+}
+.user-information{
+    width: 180px;
+    position: absolute;
+    top: 99%;
+    margin-top: 1140px;
+    left: 27%;
+}
+.user-information p{
+    font-size: 24px;
+    font-weight: 600;
+    color: rgb(18, 59, 66);
+}
+.case-study-btn{
+    border: 1px solid black;
+    width: 320px;
+    position: absolute;
+    top: 99%;
+    margin-top: 1300px;
+    left: 70%;
+    height: 58px;
+}
+.case-study-btn button{
+    width: 320px;
+    height: 58px;
+    font-size: 22px;
+    background-color: rgb(43, 43, 182);
+    color: aqua;
+}
+
+.case-study-btn img{
+    position: relative;
+    left: 2px;
+    top: 5px;
+}
+.case-study-btn button img:hover{
+    color: aqua;
+    transform: translateX(35%);
+    transition: 0.5s;
+}
+.null-red-line{
+    position: relative;
+    width: 100px;
+    height: 20px;
+    top: 96%;
+    margin-top: 1850px;
+    left: 10%;
+    background-color: rgb(243, 22, 22);
+}
+.para-6{
+    position: absolute;
+    width: 520px;
+    top: 99%;
+    margin-top: 1370px;
+    left: 9.9%;
+}
+.para-6 p{
+    font-size: 68px;
+    font-weight: 600;
+    color: aqua;
+    line-height: 68px;
+    transition: 0.6s;
+}
+.para-6 p:hover{
+    color: crimson;
+}
+.para-7{
+    position: absolute;
+    width: 550px;
+    top: 99%;
+    margin-top: 1720px;
+    left: 9.2%;
+}
+.para-7 p{
+    font-size: 22px;
+    color: aqua;
+    transition: 0.6s;
+}
+.para-7 p:hover{
+    color: rgb(192, 253, 253);
+}
+.chat-img{
+    position: absolute;
+    top: 99%;
+    margin-top: 1400px;
+    left: 50%;
+    width: 600px;
+}
+.chat-img img{
+    width: 598px;
+}
+.blue-null-line{
+    position: absolute;
+    top: 99%;
+    margin-top: 1950px;
+    left: 10%;
+    background-color: blue;
+    height: 20px;
+    width: 150px;
+}
+.blue-null-line-1{
+    position: absolute;
+    top: 99%;
+    margin-top: 2188px;
+    left: 10.4%;
+    background-color: blue;
+    height: 23px;
+    width: 312px;
+}
+.blue-null-line-1:hover{
+    color: red;
+}
+.para-8{
+    position: absolute;
+    top: 82%;
+    margin-top: 2100px;
+    width: 690px;
+    left: 10%;
+}
+.para-8 p{
+    font-size: 62px;
+    font-weight: 600;
+    color: aqua;
+    transition: 0.6s;
+}
+.para-8 p:hover{
+    color: crimson;
+}
+.talk-img{
+    position: absolute;
+    top: 99%;
+    margin-top: 2220px;
+    left: 34.8%;
+    width: 765px;
+    height: 440px;
+}
+.talk-img img{
+    width: 764px;
+    height: 440px;
+}
+.container-2{
+    position: absolute;
+    border-radius: 5px;
+    top: 99%;
+    margin-top: 2790px;
+    background-color: rgb(245, 76, 104);
+    width: 80%;
+    height: 429px;
+    left: 10%;
+}
+.container-2 p{
+    font-size: 42px;
+    font-weight: 600;
+    position: relative;
+    left: 7.9%;
+    top: 5px;
+    padding: 10px;
+}
+.container-2 img{
+    position: relative;
+    left: 8.9%;
+    top: 0.1%;
+    width: 120px;
+}
+.comma-2{
+    position: absolute;
+    top: 99%;
+    margin-top: 2750px;
+    left: 9.4%;
+}
+.user-information-2{
+    position: relative;
+    top: 99%;
+    margin-top: 1710px;
+    width: 250px;
+    left: 29%;
+}
+.user-information-2 p{
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 29px;
+    position: relative;
+    margin-top: -35px;
+    color: #000;
+}
+.case-stydy-btn-2{
+    position: relative;
+    top: 99%;
+    margin-top: 95px;
+    width: 320px;
+    height: 58px;
+    left: 66%;
+}
+.case-stydy-btn-2 button{
+    width: 320px;
+    height: 58px;
+    font-size: 22px;
+    background-color: rgb(43, 43, 182);
+    color: aqua;
+}
+.case-stydy-btn-2 img{
+    position: relative;
+    left: 2px;
+    top: 5px;
+}
+.case-stydy-btn-2 button img:hover{
+    color: aqua;
+    transform: translateX(35%);
+    transition: 0.5s;
+}
+.null-bule-line-2{
+    position: relative;
+    top: 99.5%;
+    height: 10px;
+    background-color: blue;
+    width: 72px;
+    margin-top: 95px;
+    left: 53.6%;
+}
+.dover-information{
+    position: relative;
+    top: 99%;
+    width: 495px;
+    left: 11%;
+    margin-top: 1px;
+}
+.para-9{
+    position: absolute;
+    top: 99%;
+    margin-top: 3380px;
+    left: 48.5%;
+    width: 700px;
+}
+.para-9 h1{
+    font-size: 62px;
+    font-weight: 600;
+    padding: 5px;
+    color: aqua;
+    margin-left: 62px;
+    transition: 0.6s;
+}
+.para-9 h1:hover{
+    color: crimson;
+}
+.para-9 p{
+    font-size: 22px;
+    font-weight: 600;
+    position: relative;
+    margin-left: 42px;
+    top: -22px;
+    color: aqua;
+    transition: 0.7s;
+}
+.para-9 p:hover{
+    color: blue;
+}
+.para-9 h1 {
+    line-height: 55px;
+}
+.card-1{
+    position: relative;
+    border-radius: 5px;
+    width: 550px;
+    height: 410px;
+    background-color: rgb(108, 108, 250);
+    left: 10%;
+    margin-top: 140px;
+    transition: 0.5s;
+}
+.card-1 h3{
+    padding: 40px;
+    font-size: 23.6px;
+    line-height: 38px;
+    color: black;
+}
+.card-1 h4{
+    font-size: 21px;
+    font-weight: 600;
+    position: relative;
+    margin-top: -75px;
+    left: 180px;
+    color: black;
+}
+.card-1 p{
+    font-size: 18px;
+    position: relative;
+    margin-top: -20px;
+    left: 180px;
+    color: black;
+}
+.card-1 img{
+    width: 90px;
+    position: relative;
+    margin-top: -40px;
+    border-radius: 50%;
+    left: 8%;
+}
+.card-1 div{
+    position: relative;
+    margin-top: -350px;
+    margin-left: -58px;
+}
+.card-1:hover{
+    background-color: rgb(147, 147, 248);
+}
+.card-2{
+    border-radius: 5px;
+    position: absolute;
+    top: 99%;
+    margin-top: 235rem;
+    left: 55%;
+    width: 550px;
+    height: 410px;
+    background-color: rgb(114, 114, 245);
+    transition: 05s;  
+}
+.card-2 h3{
+    padding: 40px;
+    font-size: 23.6px;
+    line-height: 38px;
+    color: black;
+}
+.card-2 img{
+    width: 90px;
+    position: relative;
+    margin-top: -10px;
+    border-radius: 50%;
+    left: 8%;
+}
+.card-2 h4{
+    font-size: 21px;
+    font-weight: 600;
+    position: relative;
+    margin-top: -75px;
+    left: 180px;
+    color: black;
+}
+.card-2 p{
+    font-size: 18px;
+    position: relative;
+    margin-top: -20px;
+    left: 180px;
+    color: black;
+}
+.card-2 div{
+    position: relative;
+    margin-top: -355px;
+    left: 428px;
+}
+.card-2:hover{
+    background-color: rgb(171, 208, 240);
+}
+.null-bule-line-3{
+    position: relative;
+    left: 47.9%;
+    margin-top: 30px;
+    width: 90px;
+    height: 20px;
+    background-color: blue;
+}
+.user-infromation-3{
+    width: 1330px;
+    height: 450px;
+    position: absolute;
+    left: 10px;
+}
+.user-infromation-3 h1{
+    position: relative;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 54px;
+    left: 48%;
+    margin-top: -399px; 
+    color: aqua;
+    transition: 0.5s;
+}
+.user-infromation-3 h1:hover{
+    color: rgb(248, 61, 61);
+}
+.user-infromation-3 p{
+    position: relative;
+    margin-left: 48%;
+    font-size: 22px;
+    color: aqua;
+}
+.container-3{
+    border-radius: 5px;
+    width: 80%;
+    height: 502px;
+    position: relative;
+    margin-top: 40%;
+    left: 10%;
+    background-color: rgb(118, 243, 243);
+}
+.container-3 h1{
+    font-size: 42px;
+    font-weight: 600;
+    padding: 55px;
+    margin-left: 61px;
+    color: #000;
+}
+.container-3 img{
+    width: 120px;
+    border-radius: 50%;
+    margin-left: 95px;
+    margin-top: -30px;
+}
+.container-3 h4{
+    margin-left: 24%;
+    position: relative;
+    margin-top: -115px;
+    font-size: 24px;
+    color: #000;
+}
+.container-3 p{
+    margin-left: 24%;
+    position: relative;
+    margin-top: -25px;
+    font-size: 20px; 
+    color: #000;
+}
+.container-3 div {
+    width: 140px;
+    margin-top: -460px;
+    margin-left: -10px;
+}
+.case-study-btn-3{
+    border: 1px solid black;
+    position: relative;
+    width: 320px;
+    height: 58px;
+    left: 66%;
+}
+.case-study-btn-3 button{
+    width: 320px;
+    height: 58px;
+    width: 320px;
+    height: 58px;
+    font-size: 22px;
+    background-color: rgb(43, 43, 182);
+    color: aqua;
+}
+.case-study-btn-3 img{
+    position: relative;
+    left: 2px;
+    top: 5px;
+}
+.case-study-btn-3 button img:hover{
+    color: aqua;
+    transform: translateX(35%);
+    transition: 0.5s;
+}
+.headline{
+    width: 690px;
+    position: relative;
+    left: 22%;
+    margin-top: 55px;
+}
+.headline h1{
+    font-size: 56px;
+    font-weight: 600;
+    color: aqua;
+    transition: 0.6s;
+}
+.headline h1:hover{
+    color: rgb(50, 50, 238);
+}
+.left-para{
+    width: 360px;
+    position: relative;
+    margin-left: 255px;
+}
+.left-para img{
+    width: 20px;
+    padding: 5px;
+    position: relative;
+    margin-top: 2px;
+}
+.left-para ul{
+    position: relative;
+    height: 22px;
+    padding: 5px;
+}
+.left-para p{
+    position: relative;
+    margin-top: -26px;
+    margin-left: 32px;
+    color: blue;
+}
+.right-para{
+    width: 360px;
+    position: relative;
+    margin-left: 699px;
+    margin-top: -140px;
+}
+.right-para img{
+    width: 20px;
+    padding: 5px;
+    position: relative;
+    margin-top: 2px;
+}
+.right-para ul{
+    position: relative;
+    height: 22px;
+    padding: 5px;
+}
+.right-para p{
+    position: relative;
+    margin-top: -26px;
+    color: blue;
+    margin-left: 32px;
+}
+.dover-in-the-news{
+    border-radius: 5px;
+    height: 875px;
+    width: 84.2rem;
+    position: relative;
+    margin-top: 80px;
+    background-color: #000;
+}
+.dover-in-the-news h1{
+    font-size: 54px;
+    width: 422px;
+    position: relative;
+    color: aqua;
+    margin-left: 420px;
+    font-weight: 600;
+    transition: 0.6s;
+}
+.dover-in-the-news h1:hover{
+    color: rgb(61, 61, 243);
+}
+.dover-in-the-news h5{
+    font-size: 20px;
+    width: 522px;
+    position: relative;
+    margin-left: 390px;
+    font-weight: 600;
+    color: blue;
+    margin-top: -22px;
+    transition: 0.6s;
+}
+.dover-in-the-news h5:hover{
+    color: aqua;
+}
+.card-3{
+    border-radius: 5px;
+    width: 360px;
+    height: 362px;
+    position: relative;
+    background-color: white;
+    margin-left: 75px;
+    margin-top: 73px;
+    transition: 0.5s ease;
+}
+.card-3:hover{
+   transform: scale(1.1);
+}
+.card-3 img{
+    width: 160px;
+    position: relative;
+    margin-left: 62px;
+    padding: 25px;
+}
+.card-3 h3{
+    width: 110px;
+    position: relative;
+    color: red;
+    margin-left: 95px;
+    margin-top: -12px;
+    font-size: 36px;
+    transition: 0.6s;
+}
+.card-3 h3:hover{
+    color: rgb(89, 115, 231);
+}
+.card-3 h4{
+    width: 80px;
+    color: crimson;
+    position: relative;
+    margin-left: 105px;
+    margin-top: -29px;
+    font-size: 18px;
+}
+.card-3 p{
+    position: relative;
+    color: black;
+    margin-left: 26px;
+    margin-top: 19px;
+    font-size: 20px;
+    line-height: 28px;
+}
+.card-4{
+    border-radius: 5px;
+    width: 360px;
+    height: 362px;
+    position: relative;
+    background-color: white;
+    margin-left: 475px;
+    margin-top: -360px;
+    transition: 0.5s ease;
+}
+.card-4:hover{
+    transform: scale(1.1);
+}
+.card-4 img{
+    width: 160px;
+    position: relative;
+    margin-left: 62px;
+    padding: 25px;
+}
+.card-4 h3{
+    width: 210px;
+    position: relative;
+    margin-left: 95px;
+    color: red;
+    margin-top: -12px;
+    font-size: 36px;
+    transition: 0.6s;
+}
+.card-4 h3:hover{
+    color: rgb(7, 180, 7);
+}
+.card-4 h4{
+    width: 80px;
+    color: crimson;
+    position: relative;
+    margin-left: 135px;
+    margin-top: -29px;
+    font-size: 18px;
+}
+.card-4 p{
+    position: relative;
+    color: #000;
+    margin-left: 26px;
+    margin-top: 19px;
+    font-size: 20px;
+    line-height: 28px;
+}
+.card-5{
+    border-radius: 5px;
+    width: 360px;
+    height: 362px;
+    position: relative;
+    background-color: white;
+    margin-left: 875px;
+    margin-top: -360px;
+    transition: 0.5s ease;
+}
+.card-5:hover{
+    transform: scale(1.1);
+}
+.card-5 img{
+    width: 160px;
+    position: relative;
+    margin-left: 62px;
+    padding: 25px;
+}
+.card-5 h3{
+    width: 210px;
+    position: relative;
+    margin-left: 125px;
+    color: red;
+    margin-top: -32px;
+    font-size: 36px;
+    transition: 0.6s;
+}
+.card-5 h3:hover{
+    color: black;
+}
+.card-5 h4{
+    width: 80px;
+    position: relative;
+    color: crimson;
+    margin-left: 135px;
+    margin-top: -29px;
+    font-size: 18px;
+}
+.card-5 p{
+    position: relative;
+    margin-left: 26px;
+    margin-top: 19px;
+    color: #000;
+    font-size: 20px;
+    line-height: 28px;
+}
+.card-6{
+    border-radius: 5px;
+    background-color: white;
+    height: 252px;
+    width: 72rem;
+    position: relative;
+    margin-left: 75px;
+    margin-top: 45px;
+    transition: 0.5s ease;
+}
+.card-6:hover{
+    transform: scale(1.1);
+}
+.card-6 img{
+    width: 90px;
+    position: relative;
+    margin-left: 252px;
+    margin-top: 28px;
+}
+.card-6 h3{
+    width: 240px;
+    position: relative;
+    margin-left: 415px;
+    margin-top: -82px;
+    font-size: 36px;
+    color: red;
+    transition: 0.6s;
+}
+.card-6 h3:hover{
+    color: rgb(250, 75, 11);
+}
+.card-6 h4{
+    width: 80px;
+    position: relative;
+    margin-left: 445px;
+    margin-top: -29px;
+    font-size: 18px;
+    color: crimson;
+}
+.card-6 p{
+    position: relative;
+    margin-left: 445px;
+    margin-top: -19px;
+    font-size: 20px;
+    line-height: 28px;
+    color: #000;
+}
+.null-white-div{
+    background-color: #000;
+    width: 83.5rem;
+    height: 280px;
+    position: relative;
+    margin-top: 25px;
+}
+
+.footer{
+    background-color: rgb(17, 17, 94);
+    width: 84.2rem;
+    height: 350px;
+    position: relative;
+}
+.footer img{
+    width: 125px;
+    height: 90px;
+    position: relative;
+    margin-left: 152px;
+    margin-top: 55px;
+    left: 40px;
+    padding: 90px;
+
+}
+.footer-para{
+    width: 620px;
+    position: relative;
+    margin-top: -165px;
+    margin-left: 450px;
+}
+.footer-para p{
+    display: inline;
+    padding: 10px;
+    font-size: 18px;
+    color: rgb(105, 102, 102);
+    cursor: pointer;
+}
+.footer-para p:hover{
+    color: white;
+    transition: 0.5s;
+}
+.footer-headlines{
+    border: 1px solid black;
+    height: 350px;
+    background-color: blue;
+    width: 999px;
+    left: 170px;
+    position: absolute;
+    margin-top: -420px;
+    background-color: rgb(2, 2, 48);
+}
+.footer-headlines h1{
+    font-size: 55px;
+    font-weight: 600;
+    padding: 15px;
+    position: relative;
+    margin-left: 55px;
+    color: aqua;
+
+}.footer-headlines button{
+    background-color: aqua;
+    position: relative;
+    width: 380px;
+    height: 60px;
+    margin-left: 71px;
+}
+.footer-headlines button p{
+    position: relative;
+    margin-left: -265px;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 18px;
+    color: red;
+}
+.footer-headlines img{
+    position: absolute;
+    top: 19px;
+    left: 330px;
+}
+.footer-headlines button img:hover{
+    background-color: aqua;
+    transform: translateX(15px);
+    transition: 0.5s;
+}
+
+
+
